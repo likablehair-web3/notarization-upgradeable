@@ -1,0 +1,2 @@
+Proxy Admin contract @ : 0x3F49ec0146cF6d6329EfCe36BCdd997D80e3427c
+Deployed Notarize contract @ : 0xE618DF87c7F011aE344F3a9eCA8f7ec99eE35eF7
